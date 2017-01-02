@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Виктор on 30.12.2016.
+ * Created by Victor Skapoushchenko on 30.12.2016.
  */
 public class Test {
     public static void main(String[] args) {
@@ -36,7 +36,7 @@ public class Test {
     }
 
     //This method is necessary for replacing all characters except numbers and operators with space.
-    //Than it splits the string around space and delete all empty elements from array.
+    //Then it splits the string around space and delete all empty elements from array.
     //Returns the list of strings with numbers and expressions
     public List<String> receiveListOfExpessions(String line){
         line = line.replaceAll("[^0-9+-/*]", " ");

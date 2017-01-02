@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Виктор on 31.12.2016.
+ * Created by Victor Skapoushchenko on 31.12.2016.
  */
 public class EmployeeManager {
     private ArrayList<Employee> employeeList;

@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.List;
 
 /**
- * Created by Виктор on 31.12.2016.
+ * Created by Victor Skapoushchenko on 31.12.2016.
  */
 public class Test {
 

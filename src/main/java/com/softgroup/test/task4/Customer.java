@@ -1,7 +1,7 @@
 package com.softgroup.test.task4;
 
 /**
- * Created by Виктор on 31.12.2016.
+ * Created by Victor Skapoushchenko on 31.12.2016.
  */
 //It's necessary to create a new field Rental rental. Rental is a property of Customer.
 //This property allows to receive all information about rent for current customer

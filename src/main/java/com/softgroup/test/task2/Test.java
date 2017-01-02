@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Виктор on 30.12.2016.
+ * Created by Victor Skapoushchenko on 30.12.2016.
  */
 public class Test {
     public static void main(String[] args) {

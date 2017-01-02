@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by Виктор on 29.12.2016.
+ * Created by Victor Skapoushchenko on 29.12.2016.
  */
 public class Test {
     private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

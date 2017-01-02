@@ -1,7 +1,7 @@
 package com.softgroup.test.task4;
 
 /**
- * Created by Виктор on 31.12.2016.
+ * Created by Victor Skapoushchenko on 31.12.2016.
  */
 public class Rental {
     private int kind;

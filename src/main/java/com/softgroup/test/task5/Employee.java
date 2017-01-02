@@ -3,7 +3,7 @@ package com.softgroup.test.task5;
 import java.io.Serializable;
 
 /**
- * Created by Виктор on 31.12.2016.
+ * Created by Victor Skapoushchenko on 31.12.2016.
  */
 //Abstract class that contains common features of FixedPriceEmployee and HourlyWageEmployee
 public abstract class Employee implements Serializable{
